@@ -1,0 +1,7 @@
+{
+	"typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"typescript.inlayHints.parameterNames.enabled": "none",
+	"go.inlayHints.parameterNames": false,
+	"typescript.inlayHints.parameterTypes.enabled": true,
+	"typescript.inlayHints.variableTypes.enabled": true
+}
